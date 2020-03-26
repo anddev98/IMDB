@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMDB</string>
+    <string name="enter_movie_title">Enter Movie Title</string>
+    <string name="show_online_movie">Show Online Movie</string>
+    <string name="show_offline_movie">Show Offline Movie</string>
+    <string name="save_to_database">Save Movie To Database</string>
+</resources>
